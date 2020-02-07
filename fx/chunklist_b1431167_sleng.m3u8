@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1431167,RESOLUTION=854x480
+https://live-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b1431167_sleng.m3u8
