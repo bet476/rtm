@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1431167,RESOLUTION=854x480
-chunklist_b1431167_sleng.m3u8
+https://live-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1431167_sleng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1101581,RESOLUTION=720x404
-chunklist_b1101581_sleng.m3u8
+https://live-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1101581_sleng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=664685,RESOLUTION=640x360
-chunklist_b664685_sleng.m3u8
+https://live-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b664685_sleng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=528441,RESOLUTION=320x180
-chunklist_b528441_sleng.m3u8
+https://live-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b528441_sleng.m3u8
