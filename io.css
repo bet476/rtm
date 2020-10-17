@@ -1,0 +1,192 @@
+#site{
+  /*Novamente definimos a largura da div*/
+  width: 84.2%; 84.5%;
+  /* altura da div */
+  height: 550px; 550px; 607px;
+   /* left: posição de esquerda*/
+  margin-left: 7.75%;
+  /* Cor de fundo da div */
+  margin-right: auto; 7.75%;
+  margin-top: 20px;
+  background-color: #aaa; #444; #6c6d6f; #555; #aaa; 
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+ 
+}
+#header {
+/*Novamente definimos a largura da div*/
+  width: 0%;
+  /* altura da div */
+  height: 0.1px; 5PX; 470px;  438px; 
+   /* left: posição de esquerda*/
+  margin-left: 5px; 
+  /* Cor de fundo da div */
+  line-height: 20px;
+  font-size:12px; color: #fff;
+  margin-top: 0px;
+  background-color: #aaa; #1f1f1f; #222; #1f1f1f; #99997a;  
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+ 
+
+}
+#conteudo{
+  /*Novamente definimos a largura da div*/
+  width: 100%; 100%;
+  /* altura da div */
+  height: 444.3px; 444PX; 470px;  438px; 
+   /* left: posição de esquerda*/
+  margin-left: 0px; 0%; 
+  /* Cor de fundo da div */
+  margin-top: 0px; 0.5px; 0.5px; 25px; 5px;
+  background-color: #aaa;     
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+ 
+}
+#conteudo-left{
+  /*Novamente definimos a largura da div*/
+  width: 68%; 67.6%; 67%; 67%; 67.543%;
+  /* altura da div */
+  height: 435.3px; 434px; 96%; 434px; 436PX; 435px; 440px; 375px;
+  margin-top: 4px; 5px; 8px; 3px; 5px; 6PX; 7PX; 5px; 5px;
+  margin-left: 4px; 5px; 3px; 0.6%; 0.6140%; 7px; 3px; 2.4px; 1.5px; 2px; 4px;
+  /* O atributo Float é utilizado para fazermos o nosso bloco(div) 
+  literalmente flutue e se posicione onde queremos na página, 
+  quando escolhemos left, dizemos que esse bloco irá se posicionar na 
+  parte esquerda da página */
+  float:left;
+  /* Cor de fundo da div */
+  background-color:  #222; #2B333F; 
+  font-size:18px; color:#ccc;
+  border-top-right-radius: 6px;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+#conteudo-right1{
+  /*Novamente definimos a largura da div*/
+  width:28.55%; 28.5%; 17.543%; 200px;133px; 135px; 125PX; 111px;304px;
+  /* altura da div */
+  height: 96.75%; 439px; 87%; 87%; 382PX; 400px; 436px; 436px; 440px; 425.499989px; 421px; 375px;
+  margin-top: 4px; 25px; 20px; 27px; 32px; 25px;
+  margin-left: 0.5%; 5.8%; 6%; 5.7017%; 65px; 27px; 32px; 25px;
+  margin-right: auto;
+  /* Pode parecer meio estranho usarmos o mesmo atributo left para o bloco 
+  em que queremos posicionar na direita, mas como sabemos, o CSS é um estilo 
+  em cascata, nossa div conteúdo definimos a largura de 1000px e na 
+  conteudo-left 500px, automaticamente ao definirmos o conteudo-right 
+  com 500px e à esquerda também, ele ficou à direita do conteudo-left, 
+  pois o máximo que a div filha poderá ter é 1000px, sendo 500+500=1000px */
+  float:right;
+  /* Cor de fundo da div */
+  background: linear-gradient(to top,#06c,#0ABC9C); #99997a; #edeef0; #9ff; #00bb99; #999999; #00de99; #00dc99; #0275d8; black; #dbdbdb; #b40000; #ce011a; #1c6d6f;
+  font-size: 11.49999954px; 12px; 11.2px;10.6px; 11.45px; 11.3px; color: transparent; #CB4335; #99997a; #0c6d6f; black; #d00; #EDEEF0; #edeef0; #eee; #EDEEF0; #fff; #070719; 
+  font-family: Yandex-UI-Icons-Private; Sitka Small; Yandex-UI-Icons-Private; 
+  padding-left: 15px; padding-right:10px;
+  padding-top: 5px;
+  border-top-right-radius: px;
+  border-top-left-radius: px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+#conteudo-bottom{
+  /*Novamente definimos a largura da div*/
+  width: 68.73%; 98.65%; 
+  /* altura da div */
+  height: 0px; 36PX; 28px; 25px; 
+  margin-left: 0px; 5px; 5px;
+  /* O atributo Float é utilizado para fazermos o nosso bloco(div) 
+  literalmente flutue e se posicione onde queremos na página, 
+  quando escolhemos left, dizemos que esse bloco irá se posicionar na 
+  parte esquerda da página */
+  float:left;
+  /* Cor de fundo da div */
+  margin-right:540; 
+  background-color:#aaa; #222; #1f1f1f;    
+  font-size: 11px; 14px; 15px; 11.5px; color: #aaa; #fff; #6c6d6f; #fff;
+  padding-left: 20px;
+  line-height: 5px; 25px; 25px; 10px;
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+ body {
+      background-color: #1c1c1c; #555; #00de99; #998; #1d1d1d;  #ccc; #7f7f7f;  #aaa; #FFF; #00de99; #4c6d6f; #5B615E; #1f1f1f; #0c161c; #111; #151516; #dbdbdb; #1f1f1f; #151516; #1f1f1f; #0c161c; #dbdbdb;  
+      font-family: sans-serif, Helvetica, Arial;
+      font-size: 13px;
+	  height: 630px;
+    }
+	h {
+	   color:  rgb(0, 0, 0); #aaa; #0c6d6f; #151516; #dbdbdb; #EDEEF0; #7c6d6f; white; #dbdbdb; #151516; font-size: 12.46px; 12.7px; 12.6px; font-family: Sitka Small; Yandex-UI-Icons-Private; Sitka Small;
+	
+    }
+	h1 {
+	   color: rgb(85, 26, 139); rgb(0, 0, 0); #0c6d6f; #151516; #dbdbdb; #EDEEF0; #7c6d6f; white; #dbdbdb; #151516; font-size: 15px; 10px; 16px; font-family: Sitka Small;
+	}
+	h2 { 
+	   color: #222; #aaa; #151516; #3c161c; #1f1f1f; font-size:12px; 12.6px; 11px; font-family: Yandex-UI-Icons-Private; Sitka Small; Yandex-UI-Icons-Private;
+    }
+	h3 { 
+	   color: brown; #3c161c; #1f1f1f; font-size: 12.2px; 12.4px; 12.6px; 11px; font-family: Sitka Small; Yandex-UI-Icons-Private;
+    }
+    p { 
+	  line-height:1px;
+	  font-size: 12.7px; 11.4px; 10.4999px; 11.45px; color: black; #EDEEF0; #fff; #EDEEF0; #151516; darkblue; #292b2c; #00bb99; #EDEEF0; font-family: Yandex-UI-Icons-Private; Verdana;
+	}
+	@media only screen and (max-device-width: 700px) {
+    /* .menu { width:400px; } */
+    }
+a {
+	
+    text-decoration: #d00; 
+    text-decoration-style: none; 
+    text-decoration-color: black;
+    display: ;
+    margin: 0px;
+	
+}
+a.under {
+    color: #fff; #333;
+    font-family: Verdana; 	
+	font-size: 12.999px;
+    text-decoration: none;
+    text-decoration-style: double;
+    text-decoration-color: currentcolor;
+}
+a.over {
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-decoration-color: green;
+
+}
+a.line {
+    color:blue; #b40000; #151516;
+    text-decoration:none; line-through;
+    text-decoration-style: dashed;
+    text-decoration-color: red; font-size: 12px;
+}
+
+a:active {
+    color: #FFF;
+    font-size: 14px;
+}
+
+        
+  
+        
+
+
+     
+     
+
+   
+  
+	   
